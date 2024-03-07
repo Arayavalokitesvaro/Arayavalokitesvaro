@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Yaxshimusiz
+
+### I'm Yuchen H.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arayavalokitesvaro&theme=vue&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **Arayavalokitesvaro/Arayavalokitesvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
