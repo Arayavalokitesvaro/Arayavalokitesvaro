@@ -2,6 +2,10 @@
 
 ### I'm Yuchen H.
 
+ - Computer Science Freshman @ University of Michigan
+ - Software Engineering | 📐Mathematics | 🥁Percussion | 🗣️Linguistics
+ - 📫 How to reach me: yuchenh@umich.edu
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arayavalokitesvaro&theme=vue&mode=weekly)](https://git.io/streak-stats)
 
 <!--
