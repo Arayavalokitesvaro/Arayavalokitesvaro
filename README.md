@@ -2,7 +2,7 @@
 
 ### I'm Yuchen H.
 
- - Computer Science & Math Junior @ University of Michigan
+ - Computer Science & Math Senior @ University of Michigan
  - Software Engineering | Artificial Intelligence | 📐Mathematics | 🥁Music
  - 📫 How to reach me: yuchenh@umich.edu
 
